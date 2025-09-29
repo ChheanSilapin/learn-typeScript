@@ -13,7 +13,7 @@
 1. Clone Repository
 
 ```
-git clone https://github.com/themewagon/TailAdmin.git
+git clone  https://github.com/ChheanSilapin/learn-typeScript.git
 ```
 
 2. Install Dependencies
